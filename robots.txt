@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/sitemapindex
+Sitemap: https://d0kt0r1.github.io/d0kt0r1/sitemapindex
